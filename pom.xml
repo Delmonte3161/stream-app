@@ -23,9 +23,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<spring-cloud-services.version>1.5.0.RELEASE</spring-cloud-services.version>
-		<springboot.version>1.5.7.RELEASE</springboot.version>
-		<springcloud.version>Camden.SR7</springcloud.version>
-		<springcloudstreams.version>Ditmars.RELEASE</springcloudstreams.version>
+		<springboot.version>1.5.9.RELEASE</springboot.version>
+		<springcloud.version>Edgware.RELEASE</springcloud.version>
+		<springcloudstreams.version>Ditmars.SR3</springcloudstreams.version>
 		<!-- <springcloudstreams.version>Chelsea.SR2</springcloudstreams.version> -->
 	</properties>
 
